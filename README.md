@@ -36,4 +36,4 @@
    $ sudo update-grub2                                                             
 ```                                                                                
 ## Author                                                                          
-  * Yongseob Lee(yongseob.etri@gmail.com) (AliusM related only)
+  * 李溶燮(yongseob.etri@gmail.com) (AliusM related only)
